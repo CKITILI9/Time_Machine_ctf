@@ -25,8 +25,8 @@ Steps Taken
 ---
 
 Lessons Learned
-Version control system (VCS) is a software that helps developers see the history of files, code, and documents.
-At the core of VCS is git; a toolkit that tracks these changes.
+- Version control system (VCS) is a software that helps developers see the history of files, code, and documents.
+- At the core of VCS is git; a toolkit that tracks these changes.
 
 ---
 
